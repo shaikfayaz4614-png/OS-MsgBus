@@ -1,0 +1,14 @@
+# Compiled files
+*.o
+*.out
+/bin/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Editor settings
+.vscode/
