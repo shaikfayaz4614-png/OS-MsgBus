@@ -12,9 +12,9 @@
 
 void fifo_demo(void)
 {
-    printf("\n========================================\n");
+    printf("\n=====================================\n");
     printf("             NAMED FIFO DEMO\n");
-    printf("========================================\n\n");
+    printf("======================================\n\n");
 
     /* Remove old FIFO if it exists */
     unlink(FIFO_PATH);
